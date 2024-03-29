@@ -10,3 +10,17 @@ He plans on using these insights to help him decide whether he should expand the
 Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
 ## Entity Relationship Diagram
 
+![image](https://github.com/SatyamPatidar30/Customer-Behaviour-Analysis-MSSQL-Server/assets/151156440/af8c7ec8-0ce9-4846-836a-832b70887f6e)
+
+## Skills Applied
+Window Functions
+CTEs
+Aggregations
+JOINs
+Write scripts to generate basic reports that can be run every period
+
+
+
+
+
+
